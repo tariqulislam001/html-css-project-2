@@ -1,0 +1,44 @@
+.color1{
+	color: #87CEEB;
+}
+#color1{
+	color: rgb(39,222,58);
+}
+h3{
+	color: rgba(209, 54, 167, 1);
+}
+.name{
+	color: #FF007F;
+}
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+}
+.first_name, .last_name, .email, .password{
+	width: 90%;
+    height: 25px;
+    padding: 10px;
+    font-size: 15px;
+}
+label{
+	font-size: 25px;
+}
+.massage{
+	font-size: 18px;
+	padding: 10px;
+}
+table{
+	width: 50%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td:hover{
+	background-color: #ddd;
+}
